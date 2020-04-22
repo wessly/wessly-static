@@ -4,11 +4,7 @@ import { Link } from 'react-router-dom'
 import nineImage from '../img/9.jpg'
 import tenImage from '../img/10.jpg'
 
-<<<<<<< HEAD:src/pages/MathPage.js
-const MathPage = () => {   
-=======
-export default function Math() {
->>>>>>> 9a9b9cf6a0da4964da1308fef05993c15b0ecf2b:src/Components/Math.js
+const MathPage = () => {
     const cards = [
         {
             title: 'Уроци по математика за 9 клас',
